@@ -1,4 +1,4 @@
-﻿# Hi, I'm Tony Tran 👋
+# Hi, I'm Tony Tran 👋
 
 **Senior QA Analyst & SDET | 19 Years V&V Experience | Kitchener-Waterloo, Ontario**
 
@@ -39,4 +39,4 @@ ISTQB CTFL 4.0 practice engine — 280 questions across 8 exam banks with wrong-
 ## 📍 Based in Kitchener-Waterloo, Ontario
 Open to Senior QA Analyst, SDET, and Performance Testing roles at stable companies in KW and Ontario.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tony--tran--qa-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/tony-tran-qa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-softwarequalitytony-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/softwarequalitytony/)
