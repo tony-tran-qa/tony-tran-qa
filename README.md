@@ -26,6 +26,9 @@ Pytest automation framework — 96 tests across fixtures, parametrize, mocking, 
 ### 🎓 [ctfl-practice-engine](https://github.com/tony-tran-qa/ctfl-practice-engine)
 ISTQB CTFL 4.0 practice engine — 280 questions across 8 exam banks with wrong-answer tracking and score export. Built with vanilla JS, no dependencies.
 
+### 🛡️ [everydayai-shield](https://github.com/tony-tran-qa/everydayai-shield)
+Modular Windows security monitor for AI tools — 9 checks covering supply chain RAT detection, exposed API keys, risky Claude Code configs, Ollama network exposure, and browser extension auditing. Python, CI-tested.
+
 ---
 
 ## 🏆 Certifications & Learning
