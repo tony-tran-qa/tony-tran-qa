@@ -33,7 +33,7 @@ Modular Windows security monitor for AI tools — 9 checks covering supply chain
 
 ## 🏆 Certifications & Learning
 
-- **ISTQB CTFL** — certified
+- **ISTQB CTFL** — certification in progress
 - **ISTQB CT-AuT** (Automotive Software Tester) — in progress
 - ISO 26262 · Automotive SPICE · embedded systems testing
 
